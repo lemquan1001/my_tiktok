@@ -25,6 +25,12 @@
 .title + .icon {
     margin-left: 8px;
 }
+
+.icon {
+    display: inline-block; //can co de co th set width
+    width: 20px;
+}
+
 //Button type
 
 .rounded {

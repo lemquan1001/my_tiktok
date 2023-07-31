@@ -1,0 +1,18 @@
+.menu-list {
+    width: 223px;
+
+    .menu-item {
+        margin-left: 0;
+        background-color: transparent;
+    }
+}
+
+.menu-popper {
+    padding-bottom: 8px;
+}
+
+.menu-item {
+    &:hover {
+        background-color: (22, 34, 35, 0.03);
+    }
+}
